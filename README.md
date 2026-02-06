@@ -15,7 +15,7 @@ An intelligent agentic system built with **LangGraph** and **Gemini 2.5 Flash** 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/shorts-gen-agent.git
+git clone https://github.com/MohamedAlaa2005/AI-Shorts-Creator-Autonomous-Video-Agent.git
 cd shorts-gen-agent
 
 ```
