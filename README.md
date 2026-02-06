@@ -57,7 +57,7 @@ The system uses a **StateGraph** to manage the video production pipeline:
 ## 📂 Project Structure
 
 ```text
-.
+
 ├── .env                    # API Keys (Gemini, Tavily, Pollinations)
 ├── .gitignore              # Ignores .env, __pycache__, and secrets
 ├── client_secrets.json     # YouTube OAuth Credentials (keep secure!)
@@ -69,7 +69,7 @@ The system uses a **StateGraph** to manage the video production pipeline:
 │   ├── planner.py          # Structures the video flow
 │   ├── writer.py           # Generates scripts and image prompts
 │   ├── critic.py           # Reviews and provides feedback (The Loop)
-│   ├── uploader_node.py    # Generates titles/tags and triggers upload
+   ├── uploader_node.py    # Generates titles/tags and triggers upload
 │   └── __init__.py
 │
 ├── graph/                  # The "Nervous System" (Orchestration)
